@@ -1,9 +1,9 @@
 ## Hi! Welcome to my page!
 
 - 🇧🇷 Brazilian.
-- 🎓 Currently gradutating in Managment of Information Technology at FATEC Barueri.
-- 🌱 Aspiring software developer.
-- 👩‍💻 Focusing on Swift and Python.
+- 🎓 Graduated in Managment of Information Technology at FATEC Barueri.
+- 🌱 Aspiring Data Scientist.
+- 👩‍💻 Currently enrolled in Data Science and AI MBA.
 
 ## About me
 
